@@ -1,0 +1,4 @@
+>Seq_1
+AGC
+>Seq_2
+AAAC

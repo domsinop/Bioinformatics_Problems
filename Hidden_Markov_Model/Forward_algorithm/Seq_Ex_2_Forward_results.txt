@@ -1,0 +1,20 @@
+Seq 1: A T G C
+PR(Seq1|Model): 0.0034187500000000003
+ 
+ 
+Seq 2: T T A A C G
+PR(Seq2|Model): 0.0005193767361111111
+ 
+ 
+Seq 3: C C G G A T T C
+PR(Seq3|Model): 3.799280960648148e-06
+ 
+ 
+Seq 4: C A C T A
+PR(Seq4|Model): 0.0012842746913580248
+ 
+ 
+Seq 5: T T T A A G C C G
+PR(Seq5|Model): 4.9537140299479185e-06
+ 
+ 

@@ -1,0 +1,16 @@
+>HW5TrySeq1
+ATGC
+
+>HW5TrySeq2
+TTAACG
+
+>HW5TrySeq3
+CCGGATTC
+
+>HW5TrySeq4
+CACTA
+
+>HW5TrySeq5
+TTTAAGCCG
+
+

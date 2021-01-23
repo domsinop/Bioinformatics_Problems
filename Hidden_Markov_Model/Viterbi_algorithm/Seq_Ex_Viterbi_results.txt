@@ -1,0 +1,12 @@
+Seq 1:      A C G T T T T G A A
+State:      1 2 2 3 3 3 3 4 4 4
+ 
+ 
+Seq 2:      T T C C A T G
+State:      1 1 2 3 4 1 2
+ 
+ 
+Seq 3:      T A A C G
+State:      1 2 2 2 2
+ 
+ 

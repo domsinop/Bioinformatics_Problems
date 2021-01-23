@@ -1,0 +1,512 @@
+Score= -5.0
+ 
+>Seq_1 _ 1   A G T G T G T T T T G C C C C T _
+             _ | | | | ; ; | ; ; ; | ; ; ; | _
+>Seq_2 _ 1   _ G T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 2   A G T G T G T T T T G C C C _ C T _ _
+             _ _ _ | | | | ; ; | | | | | _ ; | _ _
+>Seq_2 _ 2   _ _ _ G T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 3   A G T G T G T T T T G C C C _ C _ T _
+             _ _ _ | | | | ; ; | | | | | _ ; _ | _
+>Seq_2 _ 3   _ _ _ G T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 4   A G T G T G T T T T G C C C _ _ C T _
+             _ _ _ | | | | ; ; | | | | | _ _ ; | _
+>Seq_2 _ 4   _ _ _ G T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 5   A G T G T G T T T T G C C C _ _ C T _
+             _ | | | | _ ; ; | _ | | | | _ _ ; | _
+>Seq_2 _ 5   _ G T G T _ A G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 6   A G T G T G T T T T G C C C _ _ C T _
+             _ | | | | _ ; ; _ | | | | | _ _ ; | _
+>Seq_2 _ 6   _ G T G T _ A G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 7   A G T G T G T T T T G C C C _ _ C T _
+             _ | | | | _ ; _ ; | | | | | _ _ ; | _
+>Seq_2 _ 7   _ G T G T _ A _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 8   A G T G T G T T T T G C C C _ _ C T _
+             _ | | | | _ _ ; ; | | | | | _ _ ; | _
+>Seq_2 _ 8   _ G T G T _ _ A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 9   A G T G T G T T T T G C C C _ _ C T _
+             _ | | | _ _ | ; ; | | | | | _ _ ; | _
+>Seq_2 _ 9   _ G T G _ _ T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 10   A G T G T G T T T T G C C C _ _ C T _
+              _ | | _ _ | | ; ; | | | | | _ _ ; | _
+>Seq_2 _ 10   _ G T _ _ G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 11   A G T G T G T T T T G C C C _ _ C T _
+              _ | _ _ | | | ; ; | | | | | _ _ ; | _
+>Seq_2 _ 11   _ G _ _ T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 12   A G T G T G T T T T G C C C _ _ C T _
+              _ | | | | ; _ _ ; | | | | | _ _ ; | _
+>Seq_2 _ 12   _ G T G T A _ _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 13   A G T G T G T T T T G C C C _ _ C T _
+              _ | | | | ; ; _ _ | | | | | _ _ ; | _
+>Seq_2 _ 13   _ G T G T A G _ _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 14   A G T G T G T T T T G C C C _ _ C T _
+              _ | | | | ; _ ; _ | | | | | _ _ ; | _
+>Seq_2 _ 14   _ G T G T A _ G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 15   A G T G T G T T T T G C C C _ _ C T _
+              _ | | | | ; ; | _ _ | | | | _ _ ; | _
+>Seq_2 _ 15   _ G T G T A G T _ _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 16   A G T G T G T T T T G C C C _ _ C T _
+              _ | | | | ; ; _ | _ | | | | _ _ ; | _
+>Seq_2 _ 16   _ G T G T A G _ T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 17   A G T G T G T T T T G C C C _ _ C T _
+              _ | | | | ; _ ; | _ | | | | _ _ ; | _
+>Seq_2 _ 17   _ G T G T A _ G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 18   A G T G T G T T T T G C C C C _ _ T _
+              _ _ _ | | | | ; ; | | | | | ; _ _ | _
+>Seq_2 _ 18   _ _ _ G T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 19   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | _ ; ; | _ | | | | _ ; _ | _
+>Seq_2 _ 19   _ G T G T _ A G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 20   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | _ ; ; _ | | | | | _ ; _ | _
+>Seq_2 _ 20   _ G T G T _ A G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 21   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | _ ; _ ; | | | | | _ ; _ | _
+>Seq_2 _ 21   _ G T G T _ A _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 22   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | _ _ ; ; | | | | | _ ; _ | _
+>Seq_2 _ 22   _ G T G T _ _ A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 23   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | _ _ | ; ; | | | | | _ ; _ | _
+>Seq_2 _ 23   _ G T G _ _ T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 24   A G T G T G T T T T G C C C _ C _ T _
+              _ | | _ _ | | ; ; | | | | | _ ; _ | _
+>Seq_2 _ 24   _ G T _ _ G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 25   A G T G T G T T T T G C C C _ C _ T _
+              _ | _ _ | | | ; ; | | | | | _ ; _ | _
+>Seq_2 _ 25   _ G _ _ T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 26   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | ; _ _ ; | | | | | _ ; _ | _
+>Seq_2 _ 26   _ G T G T A _ _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 27   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | ; ; _ _ | | | | | _ ; _ | _
+>Seq_2 _ 27   _ G T G T A G _ _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 28   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | ; _ ; _ | | | | | _ ; _ | _
+>Seq_2 _ 28   _ G T G T A _ G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 29   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | ; ; | _ _ | | | | _ ; _ | _
+>Seq_2 _ 29   _ G T G T A G T _ _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 30   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | ; ; _ | _ | | | | _ ; _ | _
+>Seq_2 _ 30   _ G T G T A G _ T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 31   A G T G T G T T T T G C C C _ C _ T _
+              _ | | | | ; _ ; | _ | | | | _ ; _ | _
+>Seq_2 _ 31   _ G T G T A _ G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 32   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | _ ; ; | _ | | | | ; _ _ | _
+>Seq_2 _ 32   _ G T G T _ A G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 33   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | _ ; ; _ | | | | | ; _ _ | _
+>Seq_2 _ 33   _ G T G T _ A G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 34   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | _ ; _ ; | | | | | ; _ _ | _
+>Seq_2 _ 34   _ G T G T _ A _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 35   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | _ _ ; ; | | | | | ; _ _ | _
+>Seq_2 _ 35   _ G T G T _ _ A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 36   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | _ _ | ; ; | | | | | ; _ _ | _
+>Seq_2 _ 36   _ G T G _ _ T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 37   A G T G T G T T T T G C C C C _ _ T _
+              _ | | _ _ | | ; ; | | | | | ; _ _ | _
+>Seq_2 _ 37   _ G T _ _ G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 38   A G T G T G T T T T G C C C C _ _ T _
+              _ | _ _ | | | ; ; | | | | | ; _ _ | _
+>Seq_2 _ 38   _ G _ _ T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 39   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | ; _ _ ; | | | | | ; _ _ | _
+>Seq_2 _ 39   _ G T G T A _ _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 40   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | ; ; _ _ | | | | | ; _ _ | _
+>Seq_2 _ 40   _ G T G T A G _ _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 41   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | ; _ ; _ | | | | | ; _ _ | _
+>Seq_2 _ 41   _ G T G T A _ G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 42   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | ; ; | _ _ | | | | ; _ _ | _
+>Seq_2 _ 42   _ G T G T A G T _ _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 43   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | ; ; _ | _ | | | | ; _ _ | _
+>Seq_2 _ 43   _ G T G T A G _ T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 44   A G T G T G T T T T G C C C C _ _ T _
+              _ | | | | ; _ ; | _ | | | | ; _ _ | _
+>Seq_2 _ 44   _ G T G T A _ G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 45   A G T G T G T T T T G C C C C T _ _ _
+              _ _ _ | | | | ; ; | | | | | ; | _ _ _
+>Seq_2 _ 45   _ _ _ G T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 46   A G T G T G T T T T G C C C C _ T _ _
+              _ _ _ | | | | ; ; | | | | | ; _ | _ _
+>Seq_2 _ 46   _ _ _ G T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 47   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | _ ; ; | _ | | | | _ ; | _ _
+>Seq_2 _ 47   _ G T G T _ A G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 48   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | _ ; ; _ | | | | | _ ; | _ _
+>Seq_2 _ 48   _ G T G T _ A G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 49   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | _ ; _ ; | | | | | _ ; | _ _
+>Seq_2 _ 49   _ G T G T _ A _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 50   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | _ _ ; ; | | | | | _ ; | _ _
+>Seq_2 _ 50   _ G T G T _ _ A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 51   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | _ _ | ; ; | | | | | _ ; | _ _
+>Seq_2 _ 51   _ G T G _ _ T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 52   A G T G T G T T T T G C C C _ C T _ _
+              _ | | _ _ | | ; ; | | | | | _ ; | _ _
+>Seq_2 _ 52   _ G T _ _ G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 53   A G T G T G T T T T G C C C _ C T _ _
+              _ | _ _ | | | ; ; | | | | | _ ; | _ _
+>Seq_2 _ 53   _ G _ _ T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 54   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | ; _ _ ; | | | | | _ ; | _ _
+>Seq_2 _ 54   _ G T G T A _ _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 55   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | ; ; _ _ | | | | | _ ; | _ _
+>Seq_2 _ 55   _ G T G T A G _ _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 56   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | ; _ ; _ | | | | | _ ; | _ _
+>Seq_2 _ 56   _ G T G T A _ G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 57   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | ; ; | _ _ | | | | _ ; | _ _
+>Seq_2 _ 57   _ G T G T A G T _ _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 58   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | ; ; _ | _ | | | | _ ; | _ _
+>Seq_2 _ 58   _ G T G T A G _ T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 59   A G T G T G T T T T G C C C _ C T _ _
+              _ | | | | ; _ ; | _ | | | | _ ; | _ _
+>Seq_2 _ 59   _ G T G T A _ G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 60   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | _ ; ; | _ | | | | ; _ | _ _
+>Seq_2 _ 60   _ G T G T _ A G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 61   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | _ ; ; _ | | | | | ; _ | _ _
+>Seq_2 _ 61   _ G T G T _ A G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 62   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | _ ; _ ; | | | | | ; _ | _ _
+>Seq_2 _ 62   _ G T G T _ A _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 63   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | _ _ ; ; | | | | | ; _ | _ _
+>Seq_2 _ 63   _ G T G T _ _ A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 64   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | _ _ | ; ; | | | | | ; _ | _ _
+>Seq_2 _ 64   _ G T G _ _ T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 65   A G T G T G T T T T G C C C C _ T _ _
+              _ | | _ _ | | ; ; | | | | | ; _ | _ _
+>Seq_2 _ 65   _ G T _ _ G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 66   A G T G T G T T T T G C C C C _ T _ _
+              _ | _ _ | | | ; ; | | | | | ; _ | _ _
+>Seq_2 _ 66   _ G _ _ T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 67   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | ; _ _ ; | | | | | ; _ | _ _
+>Seq_2 _ 67   _ G T G T A _ _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 68   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | ; ; _ _ | | | | | ; _ | _ _
+>Seq_2 _ 68   _ G T G T A G _ _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 69   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | ; _ ; _ | | | | | ; _ | _ _
+>Seq_2 _ 69   _ G T G T A _ G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 70   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | ; ; | _ _ | | | | ; _ | _ _
+>Seq_2 _ 70   _ G T G T A G T _ _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 71   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | ; ; _ | _ | | | | ; _ | _ _
+>Seq_2 _ 71   _ G T G T A G _ T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 72   A G T G T G T T T T G C C C C _ T _ _
+              _ | | | | ; _ ; | _ | | | | ; _ | _ _
+>Seq_2 _ 72   _ G T G T A _ G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 73   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | _ ; ; | _ | | | | ; | _ _ _
+>Seq_2 _ 73   _ G T G T _ A G T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 74   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | _ ; ; _ | | | | | ; | _ _ _
+>Seq_2 _ 74   _ G T G T _ A G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 75   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | _ ; _ ; | | | | | ; | _ _ _
+>Seq_2 _ 75   _ G T G T _ A _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 76   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | _ _ ; ; | | | | | ; | _ _ _
+>Seq_2 _ 76   _ G T G T _ _ A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 77   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | _ _ | ; ; | | | | | ; | _ _ _
+>Seq_2 _ 77   _ G T G _ _ T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 78   A G T G T G T T T T G C C C C T _ _ _
+              _ | | _ _ | | ; ; | | | | | ; | _ _ _
+>Seq_2 _ 78   _ G T _ _ G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 79   A G T G T G T T T T G C C C C T _ _ _
+              _ | _ _ | | | ; ; | | | | | ; | _ _ _
+>Seq_2 _ 79   _ G _ _ T G T A G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 80   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | ; _ _ ; | | | | | ; | _ _ _
+>Seq_2 _ 80   _ G T G T A _ _ G T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 81   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | ; ; _ _ | | | | | ; | _ _ _
+>Seq_2 _ 81   _ G T G T A G _ _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 82   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | ; _ ; _ | | | | | ; | _ _ _
+>Seq_2 _ 82   _ G T G T A _ G _ T G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 83   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | ; ; | _ _ | | | | ; | _ _ _
+>Seq_2 _ 83   _ G T G T A G T _ _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 84   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | ; ; _ | _ | | | | ; | _ _ _
+>Seq_2 _ 84   _ G T G T A G _ T _ G C C C T T T T A
+Score= -5
+ 
+ 
+>Seq_1 _ 85   A G T G T G T T T T G C C C C T _ _ _
+              _ | | | | ; _ ; | _ | | | | ; | _ _ _
+>Seq_2 _ 85   _ G T G T A _ G T _ G C C C T T T T A
+Score= -5
+ 
+ 

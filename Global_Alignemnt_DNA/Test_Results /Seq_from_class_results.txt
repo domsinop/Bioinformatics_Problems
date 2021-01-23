@@ -1,0 +1,20 @@
+Score= -1.0
+ 
+>Seq_1 _ 1   _ A G C
+             _ | ; |
+>Seq_2 _ 1   A A A C
+Score= -1
+ 
+ 
+>Seq_1 _ 2   A G _ C
+             | ; _ |
+>Seq_2 _ 2   A A A C
+Score= -1
+ 
+ 
+>Seq_1 _ 3   A _ G C
+             | _ ; |
+>Seq_2 _ 3   A A A C
+Score= -1
+ 
+ 

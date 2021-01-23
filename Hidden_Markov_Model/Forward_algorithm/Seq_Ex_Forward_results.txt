@@ -1,0 +1,12 @@
+Seq 1: A C G T T T T G A A
+PR(Seq1|Model): 3.0236308593750005e-06
+ 
+ 
+Seq 2: T T C C A T G
+PR(Seq2|Model): 9.023061342592595e-05
+ 
+ 
+Seq 3: T A A C G
+PR(Seq3|Model): 0.0007127430555555555
+ 
+ 

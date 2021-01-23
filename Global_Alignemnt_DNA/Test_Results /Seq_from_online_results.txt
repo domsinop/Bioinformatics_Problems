@@ -1,0 +1,26 @@
+Score= 38.0
+ 
+>Seq_1 _ 1   A C G T T T T G A A A G G T T A T _ C A T G T A G C A T G C A T C A G T A T C A G T A C T T C A T T
+             | | | | | | | | | | | | ; | | | | _ | | | | | | | | | | | | | | | | | | | | | | | | | | ; | _ ; | |
+>Seq_2 _ 1   A C G T T T T G A A A G T T T A T C C A T G T A G C A T G C A T C A G T A T C A G T A C C T _ T T T
+Score= 38
+ 
+ 
+>Seq_1 _ 2   A C G T T T T G A A A G G T T A T _ C A T G T A G C A T G C A T C A G T A T C A G T A C T T C A T T
+             | | | | | | | | | | | | ; | | | | _ | | | | | | | | | | | | | | | | | | | | | | | | | | ; | ; _ | |
+>Seq_2 _ 2   A C G T T T T G A A A G T T T A T C C A T G T A G C A T G C A T C A G T A T C A G T A C C T T _ T T
+Score= 38
+ 
+ 
+>Seq_1 _ 3   A C G T T T T G A A A G G T T A T C _ A T G T A G C A T G C A T C A G T A T C A G T A C T T C A T T
+             | | | | | | | | | | | | ; | | | | | _ | | | | | | | | | | | | | | | | | | | | | | | | | ; | _ ; | |
+>Seq_2 _ 3   A C G T T T T G A A A G T T T A T C C A T G T A G C A T G C A T C A G T A T C A G T A C C T _ T T T
+Score= 38
+ 
+ 
+>Seq_1 _ 4   A C G T T T T G A A A G G T T A T C _ A T G T A G C A T G C A T C A G T A T C A G T A C T T C A T T
+             | | | | | | | | | | | | ; | | | | | _ | | | | | | | | | | | | | | | | | | | | | | | | | ; | ; _ | |
+>Seq_2 _ 4   A C G T T T T G A A A G T T T A T C C A T G T A G C A T G C A T C A G T A T C A G T A C C T T _ T T
+Score= 38
+ 
+ 
